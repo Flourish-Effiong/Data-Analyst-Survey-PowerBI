@@ -8,4 +8,4 @@ Key Insights:
 4.	Work Environment: Understanding the work environment preferences of data analysts, including remote work trends and office setups.
 5.	Visualization: Interactive visualizations and dashboards in Power BI to represent the data in a user-friendly and insightful manner, allowing for dynamic exploration of the data.
 
-These projects provide a comprehensive view of the respective datasets, utilizing the advanced analysis tools in Excel and Power BI to extract valuable insights and support data-driven decision-making.
+This projects provide a comprehensive view of the dataset, utilizing the advanced analysis tools in Power BI to extract valuable insights and support data-driven decision-making.
